@@ -1,0 +1,14 @@
+h1 {
+    background-color: rgb(43, 136, 136);
+    text-transform: capitalize;
+}
+
+p {
+    text-transform: capitalize;
+    font-size: 22px;
+}
+
+li {
+    text-transform: capitalize;
+    font-size: 22px;
+}
